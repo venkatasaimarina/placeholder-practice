@@ -1,0 +1,12 @@
+.bold-text {
+    text-align: left;
+    column-count: 1; /* Set to 1 or remove entirely if not needed */
+    font-family: sans-serif;
+    line-height: 5px; /* Consider increasing this for better readability */
+    font-size: 40px; /* Added 'px' unit to the font-size */
+}
+
+
+*{
+    box-sizing: border-box;
+}
